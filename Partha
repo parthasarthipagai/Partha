@@ -1,0 +1,10 @@
+ParthaApp/
+ ├── config.xml
+ ├── www/
+ │   ├── index.html
+ │   ├── css/style.css
+ │   ├── js/app.js
+ │   └── libs/
+ │       ├── codemirror.js
+ │       ├── codemirror.css
+ │       └── javascript.js
